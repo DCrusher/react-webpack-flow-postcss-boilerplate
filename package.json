@@ -9,7 +9,7 @@
     "test": "jest",
     "flow": "flow"
   },
-  "author": "Pavel Bulychev <pavel_bulychev@epam.com>",
+  "author": "Pavel Bulychev <bloodest@inbox.ru>",
   "license": "ISC",
   "dependencies": {
     "history": "^4.7.2",
